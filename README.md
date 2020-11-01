@@ -1,1 +1,1 @@
-This project is a simple implementation of HTML and CSS.
+This project is a simple implementation of HTML5 and CSS3.
